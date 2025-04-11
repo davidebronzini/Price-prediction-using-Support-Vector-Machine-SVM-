@@ -18,5 +18,6 @@ Polynomial kernel (degree 3)
 Radial basis function (RBF) with sigma chosen heuristically
 
 ## LindekIn link for the presentation:
+www.linkedin.com/in/davide-bronzini-34a42528b
 
 
